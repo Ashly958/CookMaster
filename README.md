@@ -112,6 +112,8 @@ com.mycompany.cookmaster/
 └── Cocinero.java
 ```
 
+## ![Imagen de Ejemplo de ejecución](Diagrama de Ejecución.png)
+
 ---
 
 ## Autores: Ashly Nicole Pérez López Y Miguel Santiago Castro Guerrero.
