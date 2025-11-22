@@ -90,6 +90,9 @@ postre.agregarPaso(new Paso(2, "Refrigerar por 2 horas."));
 System.out.println(postre.toString());
 ```
 
+--- 
+
+## Estructura del proyecto
 ```
 com.mycompany.cookmaster/
 │
@@ -108,3 +111,7 @@ com.mycompany.cookmaster/
 ├── Admin.java
 └── Cocinero.java
 ```
+
+---
+
+## Autores: Ashly Nicole Pérez López Y Miguel Santiago Castro Guerrero.
