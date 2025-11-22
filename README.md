@@ -112,7 +112,7 @@ com.mycompany.cookmaster/
 └── Cocinero.java
 ```
 
-## ![Imagen de Ejemplo de ejecución](Diagrama%20de%20Ejecución.png)
+## ![Imagen de Ejecución](Imagen%20de%20Ejecución.png)
 
 ---
 
