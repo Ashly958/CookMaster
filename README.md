@@ -111,8 +111,12 @@ com.mycompany.cookmaster/
 ├── Admin.java
 └── Cocinero.java
 ```
-
+## Imagen de ejecución del sistema
 ## ![Imagen de Ejecución](Imagen%20de%20Ejecución.png)
+
+## Diagrama de clases del sistema
+[Diagrama de Clases (PDF)](Diagrama%20de%20clases%20CookMaster.pdf)
+
 
 ---
 
